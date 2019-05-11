@@ -161,6 +161,13 @@ a>span:hover {
     height: 100vh;
 }
 
+.w-25 {
+    width: 25%;
+}
+.w-55 {
+    width: 55%;
+}
+
 /* display */
 
 .table {
@@ -560,8 +567,8 @@ img.lazy-loaded,
 }
 
 .bg-img-spain {
-    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.1)), to(rgba(0, 0, 0, 0.1))), url(/assets/img/jms-wiwp-spain-road.jpg) center;
-    background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url(/assets/img/jms-wiwp-spain-road.jpg) center;
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.1)), to(rgba(0, 0, 0, 0.1))), url(/assets/img/jms-spain-landscape.jpg) center;
+    background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url(/assets/img/jms-spain-landscape.jpg) center;
     background-size: cover;
     filter: contrast(1.3);
     -webkit-filter: contrast(1.3);
@@ -683,26 +690,6 @@ img.lazy-loaded,
 
 /* nfld page */
 
-.bg-img-nfld-banner {
-    background: url(/assets/img/jms-the-drs-house-1.jpg) center;
-    background-size: cover;
-}
-
-.bg-img-nfld-2 {
-    background: url(/assets/img/jms-the-drs-house-3.jpg) center;
-    background-size: cover;
-}
-
-.bg-img-nfld-3 {
-    background: url(/assets/img/jms-the-drs-house-2-min.jpg) center;
-    background-size: cover;
-}
-
-.bg-img-nfld-4 {
-    background: url(/assets/img/jms-nfld-forest-path-min.jpg) center;
-    background-size: cover;
-}
-
 /* scotland page */
 
 .bg-img-scotland-banner {
@@ -769,6 +756,38 @@ img.lazy-loaded,
 
 .bg-img-tofino-storm {
     background: url(/assets/img/jms-tofino-storm-surf.jpeg) center;
+    background-size: cover;
+}
+
+/* spain page */
+
+.bg-spain-banner {
+    background: url(/assets/img/jms-spain-landscape.jpg) 20% center;
+    background-size: cover;
+}
+
+.bg-img-spain-street {
+    background: url(/assets/img/jms-spain-street.jpg) center;
+    background-size: cover;
+}
+
+.bg-img-spain-details {
+    background: url(/assets/img/jms-spain-details.jpg) center;
+    background-size: cover;
+}
+
+.bg-img-spain-accommodation {
+    background: url(/assets/img/jms-spain-accommodation.jpg) center;
+    background-size: cover;
+}
+
+.bg-img-spain-booking {
+    background: url(/assets/img/jms-spain-booking.jpg) center;
+    background-size: cover;
+}
+
+.bg-img-spain-landscape-dark {
+    background: url(/assets/img/jms-spain-landscape-dark.jpg) center;
     background-size: cover;
 }
 

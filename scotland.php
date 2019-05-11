@@ -85,7 +85,7 @@ include 'includes/header.php';
         <div class="row shadow-lg bg-light text-light m-3">
             <div class="col-lg-12 bg-img-contact d-flex flex-column justify-content-center align-items-center text-center p-5" data-aos="fade" data-aos-easing="ease-in-out-sine" data-aos-duration="1000">
                 <h2 class="headline pb-2 l-h">Start your journey</h2>
-                <p class="pt-2 mb-0 enter-left">Sign up and get WiWP news, anouncements, special offers and workshop info straight to your inbox.</p>
+                <p class="pt-2 mb-0 enter-left">Sign up and get WiWP news, announcements, special offers and workshop info straight to your inbox.</p>
                 <!-- Begin MailChimp Signup Form -->
                <div id="mc_embed_signup">
                   <form action="https://janicemasonsteeves.us12.list-manage.com/subscribe/post?u=a9ab1596540478d19124106d8&amp;id=66a407ea79" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate-2 bs" target="_blank" novalidate>
@@ -107,8 +107,8 @@ include 'includes/header.php';
             <div class="offset-lg-2"></div>
             <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center min-50 p-5 o-12" data-aos="fade-up" data-aos-duration="1500">
                 <h2 class="section-title text-uppercase">Get <span class="pink">Out</span> There</h2>
-                <p class="h5 py-3 m-0 enter-bottom">“Twenty years from now you will be more disappointed by the things that you didn’t do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover."
-                <span class="d-block pt-3 font-italic">― Mark Twain</span></p>
+                <p class="h5 py-3 m-0 enter-bottom">&#8220;Twenty years from now you will be more disappointed by the things that you didn&#8217;t do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover.&#8221;
+                <span class="d-block pt-3 font-italic">&mdash; Mark Twain</span></p>
             </div>
             <div class="offset-lg-2"></div>
         </div>

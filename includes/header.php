@@ -128,13 +128,13 @@
                 <a class="nav-link" href="/about.php">About</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="/nfld.php">Newfoundland</a>
-              </li>
-              <li class="nav-item">
                 <a class="nav-link" href="/scotland.php">Scotland</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="/bc.php">British Columbia</a>
+              </li>
+              <li class="nav-item">
+	              <a class="nav-link" href="/spain.php">Spain</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="/upcoming.php">Upcoming</a>
