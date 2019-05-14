@@ -75,8 +75,8 @@ include 'includes/header.php';
             <div class="col-lg-6 min-50 bg-img-morocco" data-aos="fade" data-aos-easing="ease-in-out-sine" data-aos-duration="1500"></div>
             <div class="col-lg-6 d-flex flex-column justify-content-center align-items-center text-center text-secondary bg-light min-50 p-5 o-12" data-aos="fade-up" data-aos-easing="ease-in-out-sine" data-aos-duration="1000">
                 <h2 class="headline text-secondary pb-2 l-h">Morocco</h2>
-                <p class="h4 pt-2">Translating the Silence of the Desert</p>
-                <p class="py-2">October 2020</p>
+                <p class="h4 pt-2">Painting on the Ancient Caravan Route</p>
+                <p class="py-2">October 15-26, 2020</p>
                 <a href="/upcoming.php" class="btn btn-outline-secondary">Read More</a>
             </div>
         </div><!--end row-->  

@@ -68,7 +68,7 @@ include 'includes/header.php';
                 <h2 class="section-title text-uppercase enter-top">Booking <span class="pink">+</span> Info</h2>
                 <p class="py-2">Registration is now open! Click below for more information.</p>
                 <!-- Button trigger modal -->
-                <button class="btn btn-lg btn-secondary" data-toggle="modal" data-target="#spainModal">Book now</button>
+                <button class="btn btn-lg btn-secondary" data-toggle="modal" data-target="#spainModal">More details</button>
             </div>
         </div><!--end row-->
         
@@ -188,8 +188,16 @@ include 'includes/header.php';
                    <li>Full time use of the courtyard.</li>
               </ul>
               <h6 class="font-weight-bold py-3">Not included</h6>
-               <p class="py-3">A non-refundable deposit of C$500 per person is required to reserve a space on this tour.  A second deposit of C$2000 is due six months prior to departure. Final payment is due 90 days prior to departure.</p>
-              <h6 class="font-weight-bold py-3">Payment Details</h6>
+	          <ul class="py-3">
+		          <li>Roundtrip airfare from your home to join the tour</li>
+		          <li>Meals other than those mentioned above</li>
+		          <li>Visa fee (not required for Canadian passport holders)</li>
+		          <li>Items of a personal nature</li>
+		          <li>Travel insurance</li>
+		          <li>Additional arrangements required due to any emergency or other situation</li>
+		          <li>Any item not mentioned in &#8220;tour cost includes&#8221; above</li>
+	          </ul>
+	          <h6 class="font-weight-bold py-3">Payment Details</h6>
               <p class="py-3">A non-refundable deposit of C$500 per person is required to reserve a space on this tour.  A second deposit of C$2000 is due six months prior to departure. Final payment is due 90 days prior to departure.</p>
 	          <p class="py-3"><span class="font-weight-bold">Group Size:</span> Limited to 9 workshop participants.</p>
 	          <!--Registration-->
@@ -201,7 +209,9 @@ include 'includes/header.php';
 	          <h6 class="font-weight-bold pt-3">Joining Instructions</h6>
 	          <p class="py-3">This tour begins with your arrival in Madrid Airport on May 12th. There will be a single transfer to the workshop. The tour concludes with a single complimentary transfer to the airport on May 20th. Please contact us prior to making any flight arrangements.</p>
 	          <h6 class="font-weight-bold">Level of Difficulty: Easy</h6>
-	          <p class="py-3">This tour includes walking during excursions. Should you have any questions about your ability to take part in this tour, please give us a call.</p>
+	          <p class="pt-3">This tour includes walking during excursions. Should you have any questions about your ability to take part in this tour, please give us a call.</p>
+	          <p class="pb-3">Worldwide Quest<br />
+		          416-633-5666  |  1-800-387-1483</p>
 	          <h6 class="font-weight-bold">Accommodation</h6>
 	          <p class="py-3">Participants will be accommodated in rooms for single occupancy at Flores del Camino (5 rooms) and at Casa Coscolo (5 rooms). All rooms have private bathrooms. Meals are served at Flores del Camino. Casa Coscolo rooms have coffee machines and snacks provided. The two properties are 150 metres apart.</p>
 	          <h6 class="font-weight-bold">Weather</h6>
