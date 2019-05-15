@@ -106,7 +106,7 @@ include 'includes/header.php';
             </button>
           </div>
           <div class="modal-body bg-cubes text-left p-4">
-             <div class="jumbotron jumbotron-fluid shadow-lg bg-img-mongolia-horses p-4 mb-3 animated fadeIn">
+             <div class="jumbotron jumbotron-fluid shadow-lg bg-img-morocco-night p-4 mb-3 animated fadeIn">
                 <div class="wrap h-100 w-100 p-4 border border-light">
                  <h2 class="text-light font-weight-bold font-italic mb-0 pb-0 animated fadeInRight">Painting on the Ancient Caravan Route</h2>
                  <p class="text-light font-weight-light font-italic pt-0 animated fadeInLeft">Riad Caravane, Ait Ben Haddou, Morocco</p>
